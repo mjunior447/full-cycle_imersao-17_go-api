@@ -1,1 +1,1 @@
-Go API for the Categories and Products
+Go API for the product catalog, which has Categories and Products
